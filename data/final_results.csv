@@ -1,0 +1,4 @@
+original_prompt,optimized_prompt,original_tokens,optimized_tokens,token_reduction,task
+Please carefully summarize the following text in a clear and concise manner.,summarize the following text clearly.,13,8,5,summarization
+Answer the following question in a very detailed manner with explanation.,answer the following question .,12,5,7,qa
+Explain the concept of overfitting in machine learning clearly and in detail.,explain the concept of overfitting in machine learning clearly and in detail.,16,15,1,explanation
