@@ -8,7 +8,7 @@ import pandas as pd
 from evaluator.pipeline import optimize_prompt
 
 DATA_DIR = os.path.join(PROJECT_ROOT, "data")
-INPUT_PATH = os.path.join(DATA_DIR, "raw_prompts.csv")
+INPUT_PATH = os.path.join(DATA_DIR, "expanded_prompts.csv")
 OUTPUT_PATH = os.path.join(DATA_DIR, "final_results.csv")
 
 def run_pipeline():
